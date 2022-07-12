@@ -1,0 +1,26 @@
+{
+  "name": "lunar_phase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/will-iam-wang/lunar_phase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/will-iam-wang/lunar_phase/issues"
+  },
+  "homepage": "https://github.com/will-iam-wang/lunar_phase#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
